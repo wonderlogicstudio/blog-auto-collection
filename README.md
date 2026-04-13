@@ -1,2 +1,2 @@
-# blog
-blog
+# blog-auto-collection
+blog-auto-collection
